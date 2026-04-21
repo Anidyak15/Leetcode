@@ -22,6 +22,6 @@ class Solution {
         if (ch == 'L') return 50;
         if (ch == 'C') return 100;
         if (ch == 'D') return 500;
-        return 1000; // M
+        return 1000; 
     }
 }
